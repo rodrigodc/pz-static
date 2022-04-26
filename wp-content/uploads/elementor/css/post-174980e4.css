@@ -1,0 +1,36 @@
+.elementor-1749 .elementor-element.elementor-element-d1b3037{padding:80px 0px 80px 0px;}.elementor-1749 .elementor-element.elementor-element-7c42c08d{text-align:left;}.elementor-1749 .elementor-element.elementor-element-7c42c08d .elementor-heading-title{font-family:"Mulish", Sans-serif;font-size:42px;font-weight:400;}.elementor-1749 .elementor-element.elementor-element-6ded65c6{--divider-border-style:solid;--divider-color:#3AB6A0;--divider-border-width:4px;}.elementor-1749 .elementor-element.elementor-element-6ded65c6 .elementor-divider-separator{width:120px;margin:0 auto;margin-left:0;}.elementor-1749 .elementor-element.elementor-element-6ded65c6 .elementor-divider{text-align:left;padding-top:15px;padding-bottom:15px;}.elementor-1749 .elementor-element.elementor-element-6ded65c6 > .elementor-widget-container{margin:-15px 0px 0px 0px;}.elementor-1749 .elementor-element.elementor-element-0f902b2 .elementor-button{fill:var( --e-global-color-b2f1119 );color:var( --e-global-color-b2f1119 );background-color:transparent;background-image:linear-gradient(60deg, var( --e-global-color-5a65d79 ) 0%, var( --e-global-color-3ebca0a ) 100%);border-radius:80px 80px 80px 80px;}.elementor-1749 .elementor-element.elementor-element-b424bd6 img{width:100%;max-width:100%;}:root{--page-title-display:none;}@media(max-width:1024px) and (min-width:768px){.elementor-1749 .elementor-element.elementor-element-10f0435{width:50%;}.elementor-1749 .elementor-element.elementor-element-c34b7a3{width:46%;}}/* Start custom CSS */.form-pz input{
+    border: 2px solid #edf1f2;
+    background: #ffffff;
+    height: 55px;
+    box-shadow: none;
+    border-radius: 8px;
+    font-size: 16px!important;
+    letter-spacing: 0px!important;
+}
+
+.form-pz select{
+    border: 2px solid #edf1f2!important;
+    background: #ffffff!important;
+    background-image: url('../../2021/07/chevron-down-pz-form-new.png')!important;
+    background-repeat: no-repeat!important;
+    background-position: 97%!important;
+    background-size: 20px 20px!important;
+    height: 55px!important;
+    box-shadow: none!important;
+    border-radius: 8px!important;
+    color: #85868c!important;
+    font-size: 16px;
+    letter-spacing: 0px;
+}
+
+.form-pz select{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+}
+
+.form-pz button{
+    font-size: 18px;
+    font-weight: 700;
+    background-color: #00a39b;
+    height: 55px;
+}/* End custom CSS */

@@ -1,0 +1,55 @@
+.elementor-1463 .elementor-element.elementor-element-29852d9c > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-1463 .elementor-element.elementor-element-29852d9c{padding:50px 0px 40px 15px;}.elementor-1463 .elementor-element.elementor-element-36e8db2 .elementor-heading-title{font-family:"Mulish", Sans-serif;font-size:36px;font-weight:700;line-height:1.1em;}.elementor-1463 .elementor-element.elementor-element-b227d45 .elementor-button .elementor-align-icon-right{margin-left:34px;}.elementor-1463 .elementor-element.elementor-element-b227d45 .elementor-button .elementor-align-icon-left{margin-right:34px;}.elementor-1463 .elementor-element.elementor-element-b227d45 .elementor-button{font-family:"Mulish", Sans-serif;font-weight:700;fill:var( --e-global-color-b2f1119 );color:var( --e-global-color-b2f1119 );border-radius:80px 80px 80px 80px;}.elementor-1463 .elementor-element.elementor-element-b227d45 .elementor-button:hover, .elementor-1463 .elementor-element.elementor-element-b227d45 .elementor-button:focus{background-color:#37A18E;}.elementor-1463 .elementor-element.elementor-element-b227d45 > .elementor-widget-container{margin:40px 0px 0px 0px;}.elementor-1463 .elementor-element.elementor-element-9db3b82 > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-1463 .elementor-element.elementor-element-2a0a530 img{width:100%;}#elementor-popup-modal-1463 .dialog-message{width:800px;height:auto;}#elementor-popup-modal-1463{justify-content:center;align-items:center;pointer-events:all;background-color:rgba(0,0,0,.8);}#elementor-popup-modal-1463 .dialog-close-button{display:block;font-size:20px;}#elementor-popup-modal-1463 .dialog-widget-content{animation-duration:1.2s;background-color:#FFFFFF;border-radius:32px 32px 32px 32px;box-shadow:2px 8px 23px 3px rgba(0,0,0,0.2);}@media(max-width:767px){.elementor-1463 .elementor-element.elementor-element-29852d9c{padding:120px 0px 0px 0px;}}/* Start custom CSS */.form-btn-white input{
+    border: 2px solid #edf1f2;
+    background: #ffffff;
+    height: 55px;
+    box-shadow: none;
+    border-radius: 8px;
+    font-size: 16px!important;
+    letter-spacing: 0px!important;
+}
+
+.form-btn-blue textarea{
+    border: 2px solid #edf1f2;
+    background: #ffffff;
+    box-shadow: none;
+    border-radius: 8px;
+    font-size: 16px!important;
+    letter-spacing: 0px!important;
+}
+
+.form-btn-white select{
+    border: 2px solid #edf1f2!important;
+    background: #ffffff!important;
+    background-image: url('https://vulcanet.com.br/empresa-digital/wp-content/uploads/2021/05/chevron-down-solid-orange.svg')!important;
+    background-repeat: no-repeat!important;
+    background-position: 97%!important;
+    background-size: 20px 20px!important;
+    height: 55px!important;
+    box-shadow: none!important;
+    border-radius: 8px!important;
+    color: #85868c!important;
+    font-size: 16px;
+    letter-spacing: 0px;
+    appearance: none;
+}
+
+.form-btn-white .btn-default{
+    font-size: 18px!important;
+    font-weight: 700!important;
+    background-color: #ffffff!important;
+    color: #3ab6a0!important;
+    width: 100%!important;
+    padding-top: 20px!important;
+    padding-bottom: 20px!important;
+    border-radius: 8px!important;
+    transition: all 0.2s ease;
+    border: none!important;
+}
+
+.form-btn-white .btn-default:hover{
+    opacity: 0.8;
+}
+
+.form-btn-white .mauticform-errormsg {
+    font-size: 12px!important;
+}/* End custom CSS */
